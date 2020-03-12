@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.490f9d2c.chunk.css",
+    "main.js": "/static/js/main.5152a28b.chunk.js",
+    "main.js.map": "/static/js/main.5152a28b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.232daed9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.232daed9.js.map",
+    "static/css/2.e43b3631.chunk.css": "/static/css/2.e43b3631.chunk.css",
+    "static/js/2.59dc0cd2.chunk.js": "/static/js/2.59dc0cd2.chunk.js",
+    "static/js/2.59dc0cd2.chunk.js.map": "/static/js/2.59dc0cd2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.19cd27b557aa4e67e8120e48d042b8c6.js": "/precache-manifest.19cd27b557aa4e67e8120e48d042b8c6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.e43b3631.chunk.css.map": "/static/css/2.e43b3631.chunk.css.map",
+    "static/css/main.490f9d2c.chunk.css.map": "/static/css/main.490f9d2c.chunk.css.map",
+    "static/js/2.59dc0cd2.chunk.js.LICENSE": "/static/js/2.59dc0cd2.chunk.js.LICENSE",
+    "static/media/not-found.less": "/static/media/404.9161e238.png",
+    "static/media/login.less": "/static/media/bg.ab45504b.jpg",
+    "static/media/亚盟.png": "/static/media/亚盟.f071cb62.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.232daed9.js",
+    "static/css/2.e43b3631.chunk.css",
+    "static/js/2.59dc0cd2.chunk.js",
+    "static/css/main.490f9d2c.chunk.css",
+    "static/js/main.5152a28b.chunk.js"
+  ]
+}
